@@ -1,0 +1,29 @@
+
+body h2{
+
+    color: #574a4a ;
+    text-align: center;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+    border-radius: 500%;
+    
+}
+body h3{
+    margin-left: 150px;
+    color:#574a4a;
+}
+body p{
+    color: #574a4a;
+}
+body h4{
+    color: #574a4a;
+    text-align: center;
+    
+}
+img{
+    border-style: dashed;
+
+}
